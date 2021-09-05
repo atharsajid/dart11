@@ -1,0 +1,42 @@
+void main() {
+ 
+  //ADD
+  var num1 = 2;
+  var num2 = 5;
+  print (num1+num2);
+  
+  //SUB
+   var num4 = 2;
+  var num5 = 5;
+  print (num4-num5);
+  
+  //MUTIPLY
+   var num6 = 2;
+  var num7 = 5;
+  print (num6*num7);
+  
+  //DIVIDE
+   var num8 = 2;
+  var num9 = 5;
+  print (num8/num9);
+  
+  //int divide
+  var num10 = 2;
+  var num12 = 5;
+  print (num10/num12);
+  
+  //Reminder
+  var num11= 2;
+  var num13= 5;
+  print (num11%num13);
+  
+  //Post increment
+  var a=1;
+  var b=a++;
+  print(b);
+  
+  //pre increment
+  var c=1;
+  var d=++c;
+  print(d);
+}
